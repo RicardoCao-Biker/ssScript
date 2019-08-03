@@ -22,6 +22,11 @@ Ubuntu 12+
 
 或者参考：[Wiki](https://github.com/flyzy2005/ss-fly/wiki)
 
+## 使用
+
+运行搭建ss脚本代码
+`ss-fly/ss-fly.sh -i flyzy2005.com 1024`
+
 ## 交流群
 flyzy小站交流群：http://t.me/flyzyxiaozhan
 
