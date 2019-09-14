@@ -1,6 +1,7 @@
 一键脚本安装shadowsocks/shadowsocksR/V2Ray + 开启bbr
 ---
 
+`https://codeload.github.com/RicardoCao-Biker/ssScript/zip/master`
 一键脚本搭建shadowsocks/shadowsocksR/V2Ray + 设置开启自启动 + 升级内核&开启bbr加速。
 
 ## 教程如何访问
