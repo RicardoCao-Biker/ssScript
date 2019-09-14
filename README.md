@@ -25,7 +25,7 @@ Ubuntu 12+
 ## 使用
 
 运行搭建ss脚本代码
-`ss-fly/ss-fly.sh -i flyzy2005.com 1024`
+`./ss-fly.sh -i 123454321 1024`
 
 ## 交流群
 flyzy小站交流群：http://t.me/flyzyxiaozhan
